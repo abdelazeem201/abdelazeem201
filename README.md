@@ -15,7 +15,7 @@ Besides the cutting-edge technology and tools I work with every day, I believe t
 My area of interest lies in ASIC design, Timing analysis(STA), Physical Design, and Logic Synthesis
 
 
-- 🔭 I’m currently a ECE student at Zagazig Unversity.
+- 🔭 I’m currently an ECE student at Zagazig Unversity.
 - 💬 Ask me about **Verilog, VHDL, and ASIC Design**
 - 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me at:
 Email: ahmedabdelazeem373@gmail.com
