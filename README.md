@@ -20,4 +20,4 @@
 
 *- 💬 Ask me about **Verilog, VHDL, and ASIC Design***
 
-*- 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me.*
+*- 💼 If you have questions, or you have a project I'm available to help and also I'm looking for a new opportunities, you can always contact me.*
