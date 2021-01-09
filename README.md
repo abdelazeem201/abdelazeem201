@@ -9,14 +9,13 @@
    
 
    
-I am an extremely motivated Physical Design Engineer with interests in the field of Digital IC Design and Computer Architecture. I am regularly trusted to deliver on the toughest designs because I enjoy finding new approaches and I do not give up!
+*I am an extremely motivated Physical Design Engineer with interests in the field of Digital IC Design and Computer Architecture. I am regularly trusted to deliver on the toughest designs because I enjoy finding new approaches and I do not give up!*
 
-Besides the cutting-edge technology and tools I work with every day, I believe the best thing is the people! I enjoy learning from experienced Engineers. My objective is simple, work with my team to deliver continued success, and to keep learning Physical Design!
+*Besides the cutting-edge technology and tools I work with every day, I believe the best thing is the people! I enjoy learning from experienced Engineers. My objective is simple, work with my team to deliver continued success, and to keep learning Physical Design!*
 
-My area of interest lies in ASIC design, Timing analysis(STA), Physical Design, and Logic Synthesis
+*My area of interest lies in ASIC design, Timing analysis(STA), Physical Design, and Logic Synthesis*
 
 
-- 🔭 I’m currently an ECE student at Zagazig Unversity.
-- 💬 Ask me about **Verilog, VHDL, and ASIC Design**
-- 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me at:
-Email: ahmedabdelazeem373@gmail.com
+*- 🔭 I’m currently an ECE student at Zagazig Unversity.*
+*- 💬 Ask me about **Verilog, VHDL, and ASIC Design***
+*- 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me.*
