@@ -18,6 +18,6 @@
 
 *- 🔭 I’m currently an ECE student at Zagazig Unversity.*
 
-*- 💬 Ask me about **Verilog, VHDL, and ASIC Design***
+*- 💬 Ask me about **ASIC Design "Verilog, VHDL, STA, PnR"***
 
 *- 💼 If you have questions, or you have a project I'm available to help and also I'm looking for a new opportunities, you can always contact me.*
