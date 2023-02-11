@@ -16,7 +16,7 @@
 *My area of interest lies in ASIC design, Timing analysis(STA), Physical Design, and Logic Synthesis*
 
 
-*- 🔭 I’m currently an FPGA Designer at Research and Development Center "Egyptian Air Defense Military Commands".*
+*- 🔭 I’m currently an ASIC Designer.*
 
 *- 💬 Ask me about **ASIC Design "Verilog, VHDL, STA, PnR"***
 
