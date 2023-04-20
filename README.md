@@ -1,4 +1,7 @@
 <h1 align= "center"> Hi I'm Ahmed Abdelazeem👋 </h1>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelazeem201&show_icons=true&theme=transparent" />
+
 <p align="center">
     <a href= "https://twitter.com/abdelazeem201"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"∠></a>
     <a href= "https://www.linkedin.com/in/ahmed-abdelazeem/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"∠></a>
@@ -21,3 +24,8 @@
 *- 💬 Ask me about **ASIC Design "Verilog, VHDL, STA, PnR"***
 
 *- 💼 If you have questions, or you have a project I'm available to help and also I'm looking for a new opportunities, you can always contact me.*
+
+
+
+
+
