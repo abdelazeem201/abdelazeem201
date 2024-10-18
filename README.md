@@ -7,7 +7,7 @@
     <a href= "mailto:a.abdelazeem201@gmail.com"><img src="https://img.shields.io/badge/gmail-%231FA1F1?style=flat&logo=gmail&logoColor=white"∠></a>
  </p>	
 <p align="center">
-    From the river to the sea, Palestine will be free
+    Glory to the resistance. Glory to the martyrs. From river to the sea, Palestine will be free.
  </p>	
    
    <img src= "https://github.com/Casear98/Casear98/blob/main/coffee.png" align="right" width="25%">
