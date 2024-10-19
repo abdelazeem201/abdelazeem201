@@ -8,7 +8,7 @@
  </p>	
 <p align="center">
     Glory to the resistance. Glory to the martyrs. From river to the sea, Palestine will be free.
- </p>	
+ </p>
    
    <img src= "https://github.com/Casear98/Casear98/blob/main/coffee.png" align="right" width="25%">
    
